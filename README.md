@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
