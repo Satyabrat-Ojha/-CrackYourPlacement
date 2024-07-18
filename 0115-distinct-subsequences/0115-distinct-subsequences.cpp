@@ -3,7 +3,7 @@ class Solution {
 
 public:
     int numDistinct(string s, string t) {
-        dp.assign(1001, vector<int> (1001, -1));
+        dp.assign(s.size() + 1, vector<int> (t.size() + 1, -1));
         return count(s, t);
     }
     int count(string s, string t) {
