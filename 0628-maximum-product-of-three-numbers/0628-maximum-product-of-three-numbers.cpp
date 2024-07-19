@@ -1,8 +1,20 @@
 class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
-        int n = nums.size();
-        sort(nums.begin(),nums.end());
-        return max(nums[n-1]*nums[n-2]*nums[n-3], nums[0]*nums[1]*nums[n-1]);
+        priority_queue<int> pmx;
+        priority_queue<int, vector<int>, greater<int>> pmn;
+        for(auto num:nums) {
+            pmx.push(num);
+            pmn.push(num);
+            if(pmx.size() > 2) pmx.pop();
+            if(pmn.size() > 3) pmn.pop();
+        }
+        int a = 1, b = 1;
+        a *= pmx.top(); pmx.pop();
+        a *= pmx.top(); pmx.pop();
+        b *= pmn.top(); pmn.pop();
+        b *= pmn.top(); pmn.pop();
+        int ans = pmn.top(); pmn.pop();
+        return max(ans * a, ans * b);
     }
 };
