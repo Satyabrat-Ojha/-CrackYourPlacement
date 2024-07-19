@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0289-game-of-life) |
 ## String
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
