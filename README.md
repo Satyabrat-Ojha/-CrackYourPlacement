@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0055-jump-game) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0079-word-search) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0227-basic-calculator-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 ## Recursion
