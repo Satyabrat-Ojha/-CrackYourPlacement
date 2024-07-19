@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0227-basic-calculator-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Recursion
 |  |
 | ------- |
