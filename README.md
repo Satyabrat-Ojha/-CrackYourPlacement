@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
