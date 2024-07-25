@@ -13,7 +13,7 @@ public:
 
     bool duable(long long mx, int m, vector<int>& nums) {
         long long sum = 0;
-        for(long long num : nums) {
+        for(int num : nums) {
             sum += num;
             if(sum > mx) {
                 sum = num;
