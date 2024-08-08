@@ -14,7 +14,7 @@ public:
         for(int i=0;i<n;i++) {
             for(int j=i+1;j<n;j++) {
                 for(int k=j+1;k<n;k++) {
-                    if(adj[i].find(j) == adj[i].end()) continue;
+                    if(adj[i].find(j) == adj[i].end()) break;
                     if(adj[j].find(k) == adj[j].end()) continue;
                     if(adj[i].find(k) == adj[i].end()) continue;
 
