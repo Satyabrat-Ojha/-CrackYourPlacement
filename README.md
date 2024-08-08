@@ -243,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
+## Graph
+|  |
+| ------- |
+| [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 <!---LeetCode Topics End-->
