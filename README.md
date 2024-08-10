@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0794-swim-in-rising-water](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [0880-rectangle-area-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0880-rectangle-area-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
+| [0794-swim-in-rising-water](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0794-swim-in-rising-water](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 ## Dynamic Programming
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+| [0794-swim-in-rising-water](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [1622-max-value-of-equation](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
 |  |
@@ -264,13 +268,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 <!---LeetCode Topics End-->
