@@ -1,7 +1,6 @@
 class Solution {
 public:
     double mincostToHireWorkers(vector<int>& quality, vector<int>& wage, int k) {
-        double ans;
         int n = wage.size(), sum = 0;
         vector<pair<int,double>> w;
         priority_queue<pair<double,int>> pq;
@@ -14,16 +13,14 @@ public:
             pq.push({w[i].second, i});
         }
 
-        ans = sum * pq.top().first;
+        double ans = sum * pq.top().first;
 
         for(int i=k;i<n;i++) {
             int idx = pq.top().second;
             pq.pop();
-
-            sum += w[i].first - w[idx].first;
-
             pq.push({w[i].second, i});
 
+            sum += w[i].first - w[idx].first;
             ans = min(ans, sum * pq.top().first);
         }
 
