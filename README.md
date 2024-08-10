@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [0880-rectangle-area-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0880-rectangle-area-ii) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0794-swim-in-rising-water](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1622-max-value-of-equation](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
 |  |
