@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0692-top-k-frequent-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Matrix
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Simulation
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0567-permutation-in-string](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0692-top-k-frequent-words) |
 ## Backtracking
