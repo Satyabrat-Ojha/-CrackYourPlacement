@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [0880-rectangle-area-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0880-rectangle-area-ii) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0907-koko-eating-bananas](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0909-stone-game) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0794-swim-in-rising-water](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
+| [0907-koko-eating-bananas](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
