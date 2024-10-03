@@ -12,7 +12,7 @@ public:
 
     bool check(int s, int h, vector<int> &piles) {
         int ans = 0;
-        for(auto pile:piles) {
+        for(auto &pile:piles) {
             ans += pile/s;
             if(pile%s) ans++;
             if(ans > h) return 0;
