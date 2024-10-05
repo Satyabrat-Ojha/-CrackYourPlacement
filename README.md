@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -267,10 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0909-stone-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
