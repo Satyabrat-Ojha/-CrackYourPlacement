@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0794-swim-in-rising-water](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
