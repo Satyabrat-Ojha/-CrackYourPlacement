@@ -9,30 +9,17 @@ public:
 
         for(auto guard:guards) {
             int it = guard[0], jt = guard[1];
-            grid[it][jt] = 0;
+            vector<pair<int,int>> directions = {{1,0},{-1,0},{0,1},{0,-1}};
 
-            for(int i=it;i<m;i++) {
-                if(grid[i][jt] > 1) break;
-                ans -= grid[i][jt];
-                grid[i][jt] = 0;
+            for(auto [x,y] : directions) {
+                int i = it+x, j = jt+y;
+                while(i>=0 && i<m && j>=0 && j<n && grid[i][j]!=2) {
+                    ans -= grid[i][j];
+                    grid[i][j] = 0;
+                    i += x;
+                    j += y;
+                }
             }
-            for(int i=it;i>=0;i--) {
-                if(grid[i][jt] > 1) break;
-                ans -= grid[i][jt];
-                grid[i][jt] = 0;
-            }
-            for(int j=jt;j<n;j++) {
-                if(grid[it][j] > 1) break;
-                ans -= grid[it][j];
-                grid[it][j] = 0;
-            }
-            for(int j=jt;j>=0;j--) {
-                if(grid[it][j] > 1) break;
-                ans -= grid[it][j];
-                grid[it][j] = 0;
-            }
-
-            grid[it][jt] = 2;
         }
 
         return ans;
