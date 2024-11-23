@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
+| [1972-rotating-the-box](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [1972-rotating-the-box](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1972-rotating-the-box) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Dynamic Programming
 |  |
