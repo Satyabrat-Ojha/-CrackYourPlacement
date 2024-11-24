@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1972-rotating-the-box](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Dynamic Programming
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [2089-maximum-matrix-sum](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/2089-maximum-matrix-sum) |
 ## Prefix Sum
 |  |
 | ------- |
