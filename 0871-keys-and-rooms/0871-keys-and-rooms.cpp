@@ -5,7 +5,7 @@ public:
         vector<int> dp(n);
         queue<int> q;
         q.push(0);
-        while(!q.empty()) {
+        do {
             int room = q.front();
             q.pop();
 
@@ -15,7 +15,7 @@ public:
             for(auto e:rooms[room]) {
                 q.push(e);
             }
-        }
+        } while(!q.empty());
 
         for(int i=0;i<n;i++) 
             if(!dp[i]) return 0;
