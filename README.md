@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 ## Line Sweep
 |  |
@@ -305,11 +306,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
+| [0871-keys-and-rooms](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
+| [0871-keys-and-rooms](https://github.com/Satyabrat-Ojha/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
 ## Union Find
 |  |
 | ------- |
