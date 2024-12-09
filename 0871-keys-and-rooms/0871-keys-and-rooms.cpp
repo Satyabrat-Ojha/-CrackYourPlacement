@@ -17,9 +17,11 @@ public:
             }
         } while(!q.empty());
 
-        for(int i=0;i<n;i++) 
+        int i=0;
+        do {
             if(!dp[i]) return 0;
-
+            i++;
+        } while (i < n);
 
         return 1;
     }
